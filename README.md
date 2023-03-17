@@ -1,4 +1,4 @@
-# MIE 451/1513 Assignment: Information Retrieval (IR)
+# Information Retrieval (IR)
 
 We will go through the tutorial notebook during the lab this week: [lab3.ipynb](lab3.ipynb)
 
